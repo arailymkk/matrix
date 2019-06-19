@@ -1,0 +1,40 @@
+[INFO ] 23:31:02 [Thread-3] matrixOperations.MatrixChange: Element at 6-th row of matrix has been changed to 9
+[INFO ] 23:31:02 [Thread-4] matrixOperations.MatrixChange: Element at 8-th row of matrix has been changed to 16
+[INFO ] 23:31:02 [Thread-1] matrixOperations.MatrixChange: Element at 0-th row of matrix has been changed to 1
+[INFO ] 23:31:02 [Thread-2] matrixOperations.MatrixChange: Element at 3-th row of matrix has been changed to 4
+[INFO ] 23:31:02 [Thread-1] matrixOperations.MatrixChange: Element at 1-th row of matrix has been changed to 1
+[INFO ] 23:31:02 [Thread-4] matrixOperations.MatrixChange: Element at 9-th row of matrix has been changed to 16
+[INFO ] 23:31:02 [Thread-3] matrixOperations.MatrixChange: Element at 7-th row of matrix has been changed to 9
+[INFO ] 23:31:02 [Thread-2] matrixOperations.MatrixChange: Element at 4-th row of matrix has been changed to 4
+[INFO ] 23:31:02 [Thread-1] matrixOperations.MatrixChange: Element at 2-th row of matrix has been changed to 1
+[INFO ] 23:31:02 [Thread-2] matrixOperations.MatrixChange: Element at 5-th row of matrix has been changed to 4
+[INFO ] 23:31:06 [main] matrixOperations.MatrixReport: Row 0: [1, 866, 976, 876, 988, 777, 654, 665, 888, 653]
+[INFO ] 23:31:06 [main] matrixOperations.MatrixReport: Row 1: [897, 1, 976, 876, 988, 777, 654, 665, 888, 653]
+[INFO ] 23:31:06 [main] matrixOperations.MatrixReport: Row 2: [897, 866, 1, 876, 988, 777, 654, 665, 888, 653]
+[INFO ] 23:31:06 [main] matrixOperations.MatrixReport: Row 3: [897, 866, 976, 4, 988, 777, 654, 665, 888, 653]
+[INFO ] 23:31:06 [main] matrixOperations.MatrixReport: Row 4: [897, 866, 976, 876, 4, 777, 654, 665, 888, 653]
+[INFO ] 23:31:06 [main] matrixOperations.MatrixReport: Row 5: [897, 866, 976, 876, 988, 4, 654, 665, 888, 653]
+[INFO ] 23:31:06 [main] matrixOperations.MatrixReport: Row 6: [897, 866, 976, 876, 988, 777, 9, 665, 888, 653]
+[INFO ] 23:31:06 [main] matrixOperations.MatrixReport: Row 7: [897, 866, 976, 876, 988, 777, 654, 9, 888, 653]
+[INFO ] 23:31:06 [main] matrixOperations.MatrixReport: Row 8: [897, 866, 976, 876, 988, 777, 654, 665, 16, 653]
+[INFO ] 23:31:06 [main] matrixOperations.MatrixReport: Row 9: [897, 866, 976, 876, 988, 777, 654, 665, 888, 16]
+[INFO ] 23:33:00 [Thread-3] matrixOperations.MatrixChange: Element at 6-th row of matrix has been changed to 9
+[INFO ] 23:33:00 [Thread-4] matrixOperations.MatrixChange: Element at 8-th row of matrix has been changed to 16
+[INFO ] 23:33:00 [Thread-2] matrixOperations.MatrixChange: Element at 3-th row of matrix has been changed to 4
+[INFO ] 23:33:00 [Thread-1] matrixOperations.MatrixChange: Element at 0-th row of matrix has been changed to 1
+[INFO ] 23:33:00 [Thread-2] matrixOperations.MatrixChange: Element at 4-th row of matrix has been changed to 4
+[INFO ] 23:33:00 [Thread-4] matrixOperations.MatrixChange: Element at 9-th row of matrix has been changed to 16
+[INFO ] 23:33:00 [Thread-3] matrixOperations.MatrixChange: Element at 7-th row of matrix has been changed to 9
+[INFO ] 23:33:00 [Thread-1] matrixOperations.MatrixChange: Element at 1-th row of matrix has been changed to 1
+[INFO ] 23:33:00 [Thread-2] matrixOperations.MatrixChange: Element at 5-th row of matrix has been changed to 4
+[INFO ] 23:33:00 [Thread-1] matrixOperations.MatrixChange: Element at 2-th row of matrix has been changed to 1
+[DEBUG] 23:33:04 [main] matrixOperations.MatrixReport: Row 0: [1, 866, 976, 876, 988, 777, 654, 665, 888, 653]
+[DEBUG] 23:33:04 [main] matrixOperations.MatrixReport: Row 1: [897, 1, 976, 876, 988, 777, 654, 665, 888, 653]
+[DEBUG] 23:33:04 [main] matrixOperations.MatrixReport: Row 2: [897, 866, 1, 876, 988, 777, 654, 665, 888, 653]
+[DEBUG] 23:33:04 [main] matrixOperations.MatrixReport: Row 3: [897, 866, 976, 4, 988, 777, 654, 665, 888, 653]
+[DEBUG] 23:33:04 [main] matrixOperations.MatrixReport: Row 4: [897, 866, 976, 876, 4, 777, 654, 665, 888, 653]
+[DEBUG] 23:33:04 [main] matrixOperations.MatrixReport: Row 5: [897, 866, 976, 876, 988, 4, 654, 665, 888, 653]
+[DEBUG] 23:33:04 [main] matrixOperations.MatrixReport: Row 6: [897, 866, 976, 876, 988, 777, 9, 665, 888, 653]
+[DEBUG] 23:33:04 [main] matrixOperations.MatrixReport: Row 7: [897, 866, 976, 876, 988, 777, 654, 9, 888, 653]
+[DEBUG] 23:33:04 [main] matrixOperations.MatrixReport: Row 8: [897, 866, 976, 876, 988, 777, 654, 665, 16, 653]
+[DEBUG] 23:33:04 [main] matrixOperations.MatrixReport: Row 9: [897, 866, 976, 876, 988, 777, 654, 665, 888, 16]
